@@ -1,0 +1,59 @@
+.grid-system a {
+	text-align: center;
+	font-family: "Knockout 50 Welterweight";
+	font-size: 50px;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	color: black;
+}
+.col-4 {
+	position: relative;
+	top: 42px;
+	height: 383px;
+	padding: 
+}
+.col-4 img {
+	width: 100%;
+}
+.row:before, .row:after {
+	content: "";
+	display: table;
+}
+.row:after{
+	clear: both;
+}
+
+.row {
+
+margin: 0 auto;
+min-height: 210px;
+padding: 9px;
+}
+.container1{
+	background-color: rgb(184, 179, 179);
+	height: 1000px;
+}
+h1 {
+	text-align: center;
+	font-size: 52px;
+}
+ 
+ h1, .separador2, .row {
+ 	position: relative;
+ 	top: 42px;
+ }
+.clases {
+	background-color: rgb(230, 227, 227);
+	position: relative;
+	top: -24px;
+	height: 24%;
+}
+h2, p {
+	left: 12px;
+	position: relative;
+	top: 12px;
+}
+.footer{
+	top: 38%;
+	position: relative;
+}
